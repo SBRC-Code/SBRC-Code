@@ -1,16 +1,49 @@
-## Hi there 👋
+## Olá! Eu sou Silvério 👋
 
-<!--
-**SBRC-Code/SBRC-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 SOBRE MIM
 
-Here are some ideas to get you started:
+Desenvolvedor Full Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor PL/SQL
+
+Cientista da Computação
+
+Administrador de Empresas
+
+Especialista em Processos de Softwares
+
+
+🎯 APAIXONADO POR: [desenvolvimento web, Inteligência Artificial, healthtech]
+
+
+🌱 ATUALMENTE APRENDENDO: [Agentes de IA voltados para Saúde]
+
+
+🔭 TRABALHANDO: Unimed Rondonópolis e Hospital Dr. Mário Perrone
+
+
+🚀 TECNOLOGIA & FERRAMENTAS
+
+  .net
+
+  python
+
+  javascript
+
+  n8n
+
+  agno
+
+  openAI
+
+  inner.AI
+
+
+📫 COMO ME ENCONTRAR
+
+LinkedIn: https://www.linkedin.com/in/silverio-carvalho/
+
+Email: silveriobrc@gmail.com | silveriobrc@yahoo.com | silveriobrc@hotmail.com
+
+
+⭐️ From SBRC-Code
