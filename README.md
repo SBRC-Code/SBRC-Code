@@ -4,9 +4,9 @@
 
 ## SBRCode
 
-### Desenvolvedor Full Stack | PL/SQL Developer | IA aplicada à Saúde | Healthtech | Automação Inteligente
+### Tecnologia há 30 anos | Full Stack Developer | PL/SQL Developer | IA aplicada à Saúde | Healthtech | Automação Inteligente
 
-🚀 Criando soluções digitais com tecnologia, inteligência artificial, automação e visão estratégica de negócio.
+🚀 Unindo experiência sólida em tecnologia com o uso avançado de Inteligência Artificial para criar soluções modernas, inteligentes e aplicáveis ao mundo real.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Silvério%20Carvalho-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/silverio-carvalho/)
 [![GitHub](https://img.shields.io/badge/GitHub-SBRCode-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SBRCode)
@@ -20,43 +20,102 @@
 
 Sou **Desenvolvedor Full Stack**, **Desenvolvedor PL/SQL**, **Cientista da Computação**, **Administrador de Empresas** e **Especialista em Processos de Software**.
 
-Atuo na interseção entre **engenharia de software**, **banco de dados**, **automação de processos**, **inteligência artificial** e **soluções aplicadas à saúde**.
+Tenho **30 anos de experiência na área de tecnologia**, acompanhando de perto a evolução dos sistemas corporativos, bancos de dados, desenvolvimento de software, integrações, automações e, mais recentemente, a transformação acelerada promovida pela **Inteligência Artificial Generativa**.
 
-Minha trajetória combina conhecimento técnico, visão de negócio e experiência prática em ambientes corporativos, especialmente em contextos que exigem organização, confiabilidade, integração entre sistemas e melhoria contínua.
+Ao longo dessa trajetória, construí uma visão prática e estratégica sobre tecnologia: não basta apenas desenvolver sistemas, é preciso entender processos, dados, pessoas, negócio e resultado. Essa combinação entre experiência técnica, visão administrativa e conhecimento de processos me permite atuar de forma ampla, conectando tecnologia à realidade operacional das organizações.
 
-Atualmente, venho direcionando meus estudos e projetos para o uso avançado de **IA Generativa**, **Agentes de IA**, **automação inteligente** e **healthtech**, buscando criar soluções que ampliem a produtividade, apoiem decisões e transformem processos complexos em fluxos mais inteligentes.
+Atualmente, meu foco está em aplicar **IA, automação inteligente e engenharia de software** para criar soluções mais eficientes, escaláveis e inovadoras, especialmente no contexto de **healthtech** e ambientes corporativos de saúde.
 
 ---
 
-## 🚀 Posicionamento
+## 🚀 Minha visão
 
-```txt id="9r2ywh"
-Tecnologia com propósito.
+```txt id="7v7hr2"
+30 anos de tecnologia.
+Experiência prática em sistemas corporativos.
 IA aplicada a problemas reais.
-Software orientado a processos.
 Automação como estratégia.
 Healthtech como campo de inovação.
+Software como ferramenta de transformação.
 ```
 
-Acredito que tecnologia não deve ser apenas uma ferramenta operacional. Ela deve ser uma camada estratégica capaz de conectar pessoas, processos, dados e inteligência para gerar resultados concretos.
+Acredito que a verdadeira inovação acontece quando a experiência acumulada encontra novas tecnologias.
+
+A Inteligência Artificial não substitui a experiência humana; ela amplia a capacidade de analisar, construir, automatizar, decidir e inovar. Meu objetivo é usar IA de forma estratégica para transformar processos complexos em soluções mais inteligentes, produtivas e sustentáveis.
+
+---
+
+## 🤖 Inteligência Artificial como diferencial
+
+Atualmente, utilizo e estudo ferramentas modernas de IA para acelerar desenvolvimento, documentação, automação, análise e criação de soluções inteligentes.
+
+Entre as ferramentas e plataformas que fazem parte do meu ecossistema de estudo e aplicação estão:
+
+<div align="center">
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge\&logo=openai\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-AI%20Coding-111827?style=for-the-badge\&logo=openai\&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge\&logo=anthropic\&logoColor=white)
+![Kimi](https://img.shields.io/badge/Kimi%20Code-000000?style=for-the-badge\&logo=moon\&logoColor=white)
+![Inner AI](https://img.shields.io/badge/Inner.AI-Productivity%20AI-000000?style=for-the-badge\&logo=sparkles\&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-AI%20Agents-111827?style=for-the-badge\&logo=openai\&logoColor=white)
+
+</div>
+
+Meu foco com IA está em:
+
+* Acelerar desenvolvimento de software
+* Criar agentes inteligentes especializados
+* Automatizar fluxos operacionais
+* Melhorar documentação técnica e corporativa
+* Apoiar análise de processos e requisitos
+* Integrar IA com APIs e sistemas internos
+* Criar soluções voltadas para produtividade
+* Explorar IA aplicada à saúde com responsabilidade e governança
+
+---
+
+## 🧬 IA aplicada ao desenvolvimento
+
+Utilizo IA não apenas como ferramenta de consulta, mas como uma camada de apoio para engenharia de software.
+
+```mermaid id="ukhs6t"
+flowchart TD
+    A[Ideia ou problema] --> B[Análise com IA]
+    B --> C[Refinamento de requisitos]
+    C --> D[Arquitetura da solução]
+    D --> E[Geração assistida de código]
+    E --> F[Revisão técnica]
+    F --> G[Documentação]
+    G --> H[Automação]
+    H --> I[Entrega de valor]
+```
+
+A combinação entre experiência técnica e IA permite acelerar etapas importantes do desenvolvimento sem perder o critério, a responsabilidade e a visão de negócio.
 
 ---
 
 ## 🎯 Áreas de interesse
 
-* Desenvolvimento Web
-* Inteligência Artificial
+* Desenvolvimento Full Stack
+* PL/SQL
+* Banco de Dados
+* Inteligência Artificial Generativa
 * Agentes de IA
+* Claude Code
+* ChatGPT
+* Codex
+* Kimi Code
+* OpenAI
 * Healthtech
 * Automação de Processos
 * Integrações com APIs
 * Engenharia de Software
-* Banco de Dados
-* PL/SQL
-* Governança de TI
-* Documentação Técnica
 * Engenharia de Prompts
-* Soluções corporativas com IA
+* Documentação Técnica
+* Governança de TI
+* Soluções corporativas inteligentes
 
 ---
 
@@ -72,15 +131,16 @@ Principais temas em estudo:
 * Integração entre IA, APIs e sistemas internos
 * Engenharia de prompts
 * Orquestração de fluxos inteligentes
+* Desenvolvimento assistido por IA
 * Documentação técnica apoiada por IA
 * Uso de IA generativa para produtividade corporativa
-* Governança e segurança no uso de IA
+* Segurança, governança e responsabilidade no uso de IA
 
 ---
 
 ## 🔭 Atualmente trabalhando
 
-Atuo em ambientes de tecnologia ligados à saúde, com foco em desenvolvimento, sistemas, integrações, processos e inovação.
+Atuo em ambientes de tecnologia ligados à saúde, com foco em desenvolvimento, sistemas, integrações, processos, automação e inovação.
 
 * **Unimed Rondonópolis**
 * **Hospital Dr. Mário Perrone**
@@ -99,14 +159,21 @@ Atuo em ambientes de tecnologia ligados à saúde, com foco em desenvolvimento, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### Inteligência artificial, automação e integração
+### Inteligência artificial e desenvolvimento assistido
 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge\&logo=openai\&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude-412982?style=for-the-badge\&logo=claude\&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge\&logo=chatgpt\&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-AI%20Coding-111827?style=for-the-badge\&logo=openai\&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge\&logo=anthropic\&logoColor=white)
+![Kimi Code](https://img.shields.io/badge/Kimi%20Code-000000?style=for-the-badge\&logo=moon\&logoColor=white)
+![Inner AI](https://img.shields.io/badge/Inner.AI-Productivity%20AI-000000?style=for-the-badge\&logo=sparkles\&logoColor=white)
+
+### Automação, agentes e integração
+
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-AI%20Agents-111827?style=for-the-badge\&logo=openai\&logoColor=white)
-![Inner AI](https://img.shields.io/badge/Inner.AI-Productivity%20AI-000000?style=for-the-badge\&logo=sparkles\&logoColor=white)
+![API](https://img.shields.io/badge/APIs-Integração-2563EB?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-Documentação-000000?style=for-the-badge\&logo=markdown\&logoColor=white)
 
 ### Áreas estratégicas
 
@@ -119,28 +186,11 @@ Atuo em ambientes de tecnologia ligados à saúde, com foco em desenvolvimento, 
 
 ---
 
-## 🤖 IA como diferencial
-
-Vejo a inteligência artificial como uma camada de aceleração para análise, automação, produtividade e inovação.
-
-Meu foco está em explorar IA para:
-
-* Automatizar tarefas repetitivas
-* Criar agentes especializados
-* Apoiar decisões operacionais e estratégicas
-* Melhorar documentação técnica e corporativa
-* Interpretar dados e informações complexas
-* Integrar sistemas por meio de APIs
-* Criar fluxos inteligentes com ferramentas como n8n
-* Aumentar produtividade com segurança e governança
-
----
-
 ## 🏥 Healthtech e inovação
 
-Atuar com tecnologia na saúde exige responsabilidade, confiabilidade e clareza.
+Atuar com tecnologia na saúde exige muito mais do que conhecimento técnico. Exige responsabilidade, confiabilidade, rastreabilidade, segurança e compreensão dos impactos que sistemas, dados e processos podem gerar na rotina das pessoas.
 
-Por isso, acredito que soluções digitais para saúde precisam considerar:
+Por isso, busco desenvolver soluções que respeitem o contexto das instituições de saúde, considerando:
 
 * Segurança da informação
 * Rastreabilidade
@@ -150,7 +200,8 @@ Por isso, acredito que soluções digitais para saúde precisam considerar:
 * Disponibilidade
 * Governança
 * Eficiência operacional
-* Apoio real ao trabalho das pessoas
+* Apoio à tomada de decisão
+* Melhoria contínua
 
 A inovação em saúde não está apenas em criar algo novo. Está em criar algo útil, seguro, aplicável e sustentável.
 
@@ -158,10 +209,10 @@ A inovação em saúde não está apenas em criar algo novo. Está em criar algo
 
 ## 🧩 Minha forma de pensar soluções
 
-```mermaid id="qny02j"
+```mermaid id="r15vyc"
 flowchart TD
     A[Problema real] --> B[Entendimento do processo]
-    B --> C[Mapeamento]
+    B --> C[Mapeamento de dados e sistemas]
     C --> D[Arquitetura da solução]
     D --> E[Desenvolvimento]
     E --> F[Automação]
@@ -174,7 +225,7 @@ flowchart TD
 
 ## 📌 O que você encontrará neste GitHub
 
-Este espaço reúne estudos, experimentos, documentações e projetos relacionados a tecnologia, IA e desenvolvimento.
+Este espaço reúne estudos, experimentos, documentações e projetos relacionados à tecnologia, IA e desenvolvimento.
 
 Aqui você poderá encontrar conteúdos sobre:
 
@@ -184,6 +235,10 @@ Aqui você poderá encontrar conteúdos sobre:
 * Integrações com APIs
 * Automação com n8n
 * Agentes de IA
+* Claude Code
+* ChatGPT
+* Codex
+* Kimi Code
 * Engenharia de prompts
 * Documentação técnica em Markdown
 * Projetos voltados para saúde
@@ -192,9 +247,22 @@ Aqui você poderá encontrar conteúdos sobre:
 
 ---
 
+## 📊 GitHub em números
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SBRCode\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBRCode\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
 ## 🧠 Stack mental
 
-```txt id="85pluz"
+```txt id="rh0lxb"
+30 anos de tecnologia
 Software Engineering
 Database Thinking
 Process Design
@@ -204,6 +272,7 @@ Healthtech Innovation
 Prompt Engineering
 Systems Integration
 Continuous Improvement
+Business Vision
 ```
 
 ---
@@ -216,7 +285,18 @@ Continuous Improvement
 * Automatizar com responsabilidade
 * Usar IA como apoio à inteligência humana
 * Integrar tecnologia, processo e negócio
+* Aplicar experiência prática com visão de futuro
 * Evoluir continuamente
+
+---
+
+## ✨ Minha essência profissional
+
+> Minha trajetória na tecnologia é construída sobre experiência, adaptação e evolução contínua.
+> Depois de 30 anos acompanhando mudanças profundas no setor, vejo a Inteligência Artificial como uma das maiores oportunidades para transformar a forma como criamos software, automatizamos processos e entregamos valor para as organizações.
+
+> Para mim, inovação não é apenas usar a ferramenta mais nova.
+> É saber conectar experiência, tecnologia, processos e inteligência para resolver problemas reais.
 
 ---
 
