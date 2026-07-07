@@ -102,6 +102,8 @@ Atuo em ambientes de tecnologia ligados à saúde, com foco em desenvolvimento, 
 ### Inteligência artificial, automação e integração
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Claude Code](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-AI%20Agents-111827?style=for-the-badge\&logo=openai\&logoColor=white)
 ![Inner AI](https://img.shields.io/badge/Inner.AI-Productivity%20AI-000000?style=for-the-badge\&logo=sparkles\&logoColor=white)
