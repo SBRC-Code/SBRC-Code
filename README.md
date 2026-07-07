@@ -247,18 +247,6 @@ Aqui você poderá encontrar conteúdos sobre:
 
 ---
 
-## 📊 GitHub em números
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SBRCode\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBRCode\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
-
 ## 🧠 Stack mental
 
 ```txt id="rh0lxb"
