@@ -159,7 +159,7 @@ A inovação em saúde não está apenas em criar algo novo. Está em criar algo
 ```mermaid id="qny02j"
 flowchart TD
     A[Problema real] --> B[Entendimento do processo]
-    B --> C[Mapeamento de dados e sistemas]
+    B --> C[Mapeamento]
     C --> D[Arquitetura da solução]
     D --> E[Desenvolvimento]
     E --> F[Automação]
@@ -187,18 +187,6 @@ Aqui você poderá encontrar conteúdos sobre:
 * Projetos voltados para saúde
 * Estudos de IA aplicada a processos corporativos
 * Estruturas de software reutilizáveis
-
----
-
-## 📊 GitHub em números
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SBRCode\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBRCode\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
 
 ---
 
